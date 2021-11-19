@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T13:48:17Z" name="Suite" finished-at="2021-11-19T13:50:54Z" duration-ms="157328">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T13:48:17Z" name="Test" finished-at="2021-11-19T13:50:54Z" duration-ms="157328">
+      <class name="Runner.TestCase2">
+        <test-method signature="TC2()[pri:0, instance:Runner.TestCase2@4e928fbf]" started-at="2021-11-19T13:48:58Z" name="TC2" finished-at="2021-11-19T13:49:40Z" duration-ms="41603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+      </class> <!-- Runner.TestCase2 -->
+      <class name="Runner.TestCase3">
+        <test-method signature="TC3()[pri:0, instance:Runner.TestCase3@352ff4da]" started-at="2021-11-19T13:49:40Z" name="TC3" finished-at="2021-11-19T13:50:54Z" duration-ms="74408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- Runner.TestCase3 -->
+      <class name="Runner.TestCase1">
+        <test-method signature="TC1()[pri:0, instance:Runner.TestCase1@f627d13]" started-at="2021-11-19T13:48:17Z" name="TC1" finished-at="2021-11-19T13:48:58Z" duration-ms="41285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- Runner.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
