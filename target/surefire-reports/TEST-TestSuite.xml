@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="158.43" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="62.011" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -51,11 +51,11 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="16.0.2+7-67"/>
-    <property name="classworlds.conf" value="C:\Users\M1074287\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf17241090739987329667.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\M1074287\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9582798171469963994.tmp"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="TC1" classname="Runner.TestCase1" time="41.286"/>
-  <testcase name="TC2" classname="Runner.TestCase2" time="41.608"/>
-  <testcase name="TC3" classname="Runner.TestCase3" time="74.402"/>
+  <testcase name="TC1" classname="Runner.TestCase1" time="16.883"/>
+  <testcase name="TC2" classname="Runner.TestCase2" time="15.318"/>
+  <testcase name="TC3" classname="Runner.TestCase3" time="28.017"/>
 </testsuite>
