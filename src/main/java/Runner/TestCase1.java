@@ -16,6 +16,7 @@ public class TestCase1 {
 		ChromeOptions option = new ChromeOptions();
 		option.addArguments("--disable-notifications");
 		WebDriver driver = new ChromeDriver(option);
+		
 		// WebDriver driver = new ChromeDriver();
 		driver.get("https://www.eazydiner.com/");
 		driver.manage().window().maximize();
